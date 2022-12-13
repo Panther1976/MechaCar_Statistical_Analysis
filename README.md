@@ -54,14 +54,18 @@ The P-value for the t-test is greater that the significance level of 0.05 percen
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+A potential new study of the MechaCar Vs the Competition should include the resale value. It is often said that the value of a car decreases substantially once it is driven off the lot. What is the difference in the resale value of the MechaCar vs the Competition?
 
-In your description, address the following questions:
+- What metric or metrics are you going to test?
+  - Resale Value of the MechaCar vs Competition
+  - Average Number of Years Owned Prior to Resale
+  - Total Cost of Ownership per Year Including Average Maintenance and Fuel Costs
 
-What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+  - There is no statistical difference between the ownership cost of a MechaCar prototyp and the competing car companies. 
 
-What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? 
+  - A multiple linear regression summary could show how the various data points impact the resale value of the vehicles.
 
-What statistical test would you use to test the hypothesis? And why?
-
-What data is needed to run the statistical test?
+- What data is needed to run the statistical test?
+  - The major data points needed to run a statistical analysis on resale value of the MechaCar vs the competition would be purchase price, resale price, average yearly cost of insurance, average yearly maintenance costs and average yearly fuel costs. 
