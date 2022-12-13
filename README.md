@@ -15,11 +15,15 @@ Below is a screenshot of the Summary Statistics:
 <img width="460" alt="D1_summary" src="https://user-images.githubusercontent.com/106631875/207221507-86edcdb3-b373-46b0-9998-7dca66849be2.png">
 
 - Q: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-  - A:
+  - A: The Intercept, vehicle_length and ground_clearance provide a non-random amount of variance to the mpg. 
+  
 - Q: Is the slope of the linear model considered to be zero? Why or why not?
-  - A:
+
+  - A: The slope is not equal to zero. Assuming our significance level was the common 0.05 percent, our p-value is well below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis.
+
 - Q: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-  - A:
+
+  - A: R-squared is .714 which indicates that it predicts the mpg of the MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 
