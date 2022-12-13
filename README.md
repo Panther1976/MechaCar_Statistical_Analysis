@@ -10,6 +10,10 @@ Beow is a screenshot of the results of the Linear Regression function in RStudio
 
 <img width="433" alt="D1_linear_regression" src="https://user-images.githubusercontent.com/106631875/207221282-49343ab1-64f6-4f5d-8c78-abb3856904d6.png">
 
+Below is a screenshot of the Summary Statistics:
+
+<img width="460" alt="D1_summary" src="https://user-images.githubusercontent.com/106631875/207221507-86edcdb3-b373-46b0-9998-7dca66849be2.png">
+
 - Q: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - A:
 - Q: Is the slope of the linear model considered to be zero? Why or why not?
