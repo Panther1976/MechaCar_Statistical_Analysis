@@ -37,7 +37,20 @@ Below is a screenshot of the Summary Statistics:
 
 ## T-Tests on Suspension Coils
 
-In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+Lot 1 Results:
+
+<img width="437" alt="Lot1" src="https://user-images.githubusercontent.com/106631875/207225979-589ca5d8-e19d-4a17-8453-8cd9c1e5b32a.png">
+
+Lot 2 Results:
+
+<img width="434" alt="Lot2" src="https://user-images.githubusercontent.com/106631875/207225963-f3f8b1d7-1d56-4a0f-8009-78d84f586f53.png">
+
+Lot 3 Results:
+
+<img width="434" alt="Lot3" src="https://user-images.githubusercontent.com/106631875/207225956-9be65666-c313-4339-bcc6-c36d79842fdd.png">
+
+
+briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
 ## Study Design: MechaCar vs Competition
 
